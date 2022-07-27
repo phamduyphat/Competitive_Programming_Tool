@@ -1,5 +1,4 @@
 <p align="center">
-    بسم الله الرحمن الرحيم
 </p>
 
 **Hello**, I would like to introduce The **Competitive Programming tool**. It provides several useful features for competitive programmers.
